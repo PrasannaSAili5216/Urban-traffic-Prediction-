@@ -1,5 +1,5 @@
 
-![Uploading image.png…]()
+<img width="1918" height="866" alt="image" src="https://github.com/user-attachments/assets/b89ef9ce-57ce-4a87-9b4b-89d989fe9b2c" />
 
 # Run and deploy your AI Studio app
 
